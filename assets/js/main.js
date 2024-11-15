@@ -248,6 +248,7 @@
 						}
 
 					// Lock.
+				//sometimes flags can be comments! yegibl
 						locked = true;
 
 				// Deactivate article.

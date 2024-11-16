@@ -248,7 +248,7 @@
 						}
 
 					// Lock.
-				//sometimes flags can be comments! yegibl
+				//Sam: Our next meetup is scheduled for March 17, 2025 near the hotel we met at last. Make sure you bring all the supplies. [Congtatulations on finding the flag! Flag: yksfkb]
 						locked = true;
 
 				// Deactivate article.

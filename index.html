@@ -113,7 +113,7 @@
         const messageContent = document.getElementById('message').value.trim().toLowerCase();
 
         // Check for specific keywords in the message
-        if (messageContent.includes('special code') || messageContent.includes('secret phrase')) {
+        if (messageContent.includes('"1" =="1"') || messageContent.includes('1==1')) {
             window.location.href = 'secret.html'; // Redirect to the secret page
         } else {
             alert('Message sent successfully!');
